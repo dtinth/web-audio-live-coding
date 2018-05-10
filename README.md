@@ -3,8 +3,8 @@
 I did a live coding session about creating the sound of 8-bit music from scratch
 using Web Audio API. This repo contains the code made during the live stream.
 
-**Note that the code contains a lot of bad practices and copy-and-pastes** in
-order to pull this stuff off in 3 hours. :)
+**Note that [the code](src/index.js) contains a lot of bad practices and
+copy-and-pastes** in order to pull this stuff off in 3 hours. :)
 
 ## Recorded session
 
@@ -25,4 +25,4 @@ provided her amazing vocals. Much appreciated!
   [ยาพิษ](https://www.youtube.com/watch?v=tn7_CFkr6Oo)’s intro drum lick in
   GarageBand.
 
-* 2:38:55 — Automated bassline and drum-machine. Crossing field.
+* 2:38:55 — **Final demo:** Automated bassline and drum-machine. Crossing field.
